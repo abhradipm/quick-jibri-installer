@@ -113,6 +113,10 @@ Feel free to use our `test-jibri-env.sh` tool to find some details on your curre
 * Start with audio muted but moderator
 * Set pre-join screen by default.
 
+## uncomment
+* 1121: deeplinking: {
+* 1129: disabled: true,
+* 1168:  },
 
 ## Documentation
 * Please check our [wiki](https://github.com/switnet-ltd/quick-jibri-installer/wiki) for further documentation.
